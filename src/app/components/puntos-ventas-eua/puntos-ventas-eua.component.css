@@ -35,3 +35,8 @@ button a:hover{
     border: none;
     text-decoration: none;
 }
+.card{
+    background: transparent;
+    border: none;
+    align-items: center;
+}
